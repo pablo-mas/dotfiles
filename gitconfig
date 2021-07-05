@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = pablovn.mas@gmail.com
+	name = Pablo Mas
